@@ -2,6 +2,7 @@
   "name": "tendadogoblin-toolbelt",
   "displayName": "Tenda do Goblin - Cinto de Utilidades",
   "publisher": "tendadogoblin",
+  "icon": "images/logo.png",
   "description": "",
   "version": "0.0.1",
   "engines": {
